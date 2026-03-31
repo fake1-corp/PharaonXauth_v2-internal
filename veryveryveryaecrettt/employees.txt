@@ -1,0 +1,8 @@
+Fake1 Corp - Internal Employee Directory
+
+john.doe@fake1-corp.com
+sarah.ahmed@fake1-corp.com
+it.support@fake1-corp.com
+
+Internal Domain:
+fake1-corp.local
