@@ -1,0 +1,7 @@
+Fake1 Corp - Internal Directory
+
+john.doe@fake1-corp.local
+sarah.ahmed@fake1-corp.local
+it.support@fake1-corp.local
+
+Department: IT / HR / Finance
